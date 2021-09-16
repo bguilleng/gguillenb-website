@@ -1191,11 +1191,11 @@ Change widths as necessary
 
   /* 3 COLUMN GRID */
   .g1 {
-    width: 31.333%
+    width: 48%
   }
 
   .g2 {
-    width: 64.667%;
+    width: 48%;
   }
 
   .g3 {
